@@ -1,0 +1,10 @@
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\helper\DbPopulator.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\utils\RestPreconditions.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\utils\SingleResourceRetrievedEvent.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\controller\UserController.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\AuthenticationApplication.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\config\CORSFilter.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\config\ResourceServerConfig.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\config\SecurityConfig.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\exception\ResourceNotFoundException.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\microservice\src\main\java\org\thibaut\thelibrary\config\AuthorizationServerConfig.java

@@ -1,0 +1,11 @@
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\exception\DoesNotExistException.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\mapper\RoleMapper.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\contract\UserService.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\mapper\UserMapper.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\impl\CustomerServiceImpl.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\impl\PasswordServiceImpl.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\configuration\SecurityConfiguration.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\configuration\SchedulerConfiguration.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\contract\PasswordService.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\impl\UserServiceImpl.java
+D:\Workspace\OpenclassroomsProjects\TheLibrary\TheLibrary-Microservice-Keycloak\service\src\main\java\org\thibaut\thelibrary\service\impl\UserDetailsServiceImpl.java

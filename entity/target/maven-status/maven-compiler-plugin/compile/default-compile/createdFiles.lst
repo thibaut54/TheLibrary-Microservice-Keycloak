@@ -1,0 +1,13 @@
+org\thibaut\thelibrary\entity\ApiResponse.class
+org\thibaut\thelibrary\dto\CustomerInfo.class
+org\thibaut\thelibrary\entity\QRoleEntity.class
+org\thibaut\thelibrary\dto\UserDTO$UserDTOBuilder.class
+org\thibaut\thelibrary\entity\QUserEntity.class
+org\thibaut\thelibrary\dto\UserDTO.class
+org\thibaut\thelibrary\entity\RoleEntity$RoleEntityBuilder.class
+org\thibaut\thelibrary\dto\RoleDTO.class
+org\thibaut\thelibrary\entity\UserEntity$UserEntityBuilder.class
+org\thibaut\thelibrary\entity\RoleEntity.class
+org\thibaut\thelibrary\entity\UserEntity.class
+org\thibaut\thelibrary\dto\RoleDTO$RoleDTOBuilder.class
+org\thibaut\thelibrary\entity\AuthToken.class

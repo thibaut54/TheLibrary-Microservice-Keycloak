@@ -1,0 +1,63 @@
+spring:
+    datasource:
+        driverClassName: org.postgresql.Driver
+        password: 123
+        url: jdbc:postgresql://localhost:5432/db_tl
+        username: admin_tl
+    jpa:
+        database-platform: org.hibernate.dialect.PostgreSQLDialect
+        hibernate:
+            ddl-auto: update
+        properties:
+            hibernate:
+                temp:
+                    use_jdbc_metadata_defaults: false
+        show-sql: true
+
+keycloak:
+    auth-server-url: http://localhost:8080/auth
+    bearer-only: true
+    cors: true
+    public-client: true
+    realm: demo
+    resource: my-app
+    security-constraints:
+        - authRoles:
+              - user
+              - admin
+            securityCollections:
+                - methods:
+                      - GET
+                    patterns:
+                        - /api/products/*
+                        - /api/productcatalogs/*
+                - methods:
+                      - GET
+                      - POST
+                      - PUT
+                    patterns:
+                        - /api/orders/*
+        - authRoles:
+              - admin
+            securityCollections:
+                - patterns:
+                      - /api/customers/*
+                - methods:
+                      - POST
+                      - PUT
+                    patterns:
+                        - /api/products/*
+                        - /api/productcatalogs/*
+logging:
+    level:
+        org:
+            hibernate:
+                SQL: DEBUG
+                type:
+                    descriptor:
+                        sql:
+                            BasicBinder: TRACE
+server:
+    port: 8090
+    servlet:
+        context-path: /thelibrary
